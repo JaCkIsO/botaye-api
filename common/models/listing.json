@@ -1,0 +1,59 @@
+{
+  "name": "Listing",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true
+    },
+    "ItemCode": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "number",
+      "required": true
+    },
+    "floor": {
+      "type": "string",
+      "required": true
+    },
+    "bedroom": {
+      "type": "string",
+      "required": true
+    },
+    "function": {
+      "type": "string",
+      "required": true,
+      "default": "Personal"
+    },
+    "area": {
+      "type": "string",
+      "required": true
+    },
+    "location": {
+      "type": "string",
+      "required": true
+    },
+    "contact": {
+      "type": "string",
+      "required": true
+    },
+    "remarks": {
+      "type": "string"
+    },
+    "urls": {
+      "type": [
+        "string"
+      ]
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,38 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Listing": 20
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Listing": {
+      "1": "{\"id\":1,\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\",\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\",\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"]}",
+      "2": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":2}",
+      "3": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":3}",
+      "4": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":4}",
+      "5": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":5}",
+      "6": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":6}",
+      "7": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":7}",
+      "8": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":8}",
+      "9": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":9}",
+      "10": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":10}",
+      "11": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":11}",
+      "12": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":12}",
+      "13": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"16c2fece-72cb-4ab8-922f-9fd7f1354e74.png\"],\"id\":13}",
+      "14": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[\"string\"],\"id\":14}",
+      "15": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[],\"id\":15}",
+      "16": "{\"ItemCode\":\"string\",\"price\":0,\"floor\":\"string\",\"bedroom\":\"string\",\"function\":\"Personal\",\"area\":\"string\",\"location\":\"string\",\"contact\":\"string\",\"remarks\":\"string\",\"urls\":[],\"id\":16}",
+      "17": "{\"ItemCode\":\"546546\",\"price\":0,\"floor\":\"Ground Floor\",\"bedroom\":\"Studio\",\"function\":\"Personal\",\"area\":\"546546\",\"location\":\"Summit\",\"contact\":\"456456456\",\"remarks\":\"456456456456\",\"urls\":[],\"id\":17}",
+      "18": "{\"ItemCode\":\"789456\",\"price\":0,\"floor\":\"Ground Floor\",\"bedroom\":\"Studio\",\"function\":\"Personal\",\"area\":\"50\",\"location\":\"Summit\",\"contact\":\"0901020304\",\"remarks\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut risus et purus auctor mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sit amet urna mollis, facilisis sapien a, molestie lacus. Cras at sapien interdum, malesuada massa ac, porta diam. Mauris eleifend congue ante, id varius felis ornare vitae. Vestibulum malesuada odio sed nulla venenatis scelerisque. Mauris vulputate laoreet interdum. Nam a interdum odio, non luctus ipsum. Phasellus congue neque sed sapien convallis dictum. Integer a massa diam. Mauris condimentum tellus et mi ultrices, et auctor quam elementum. Integer id eleifend urna. Mauris consectetur imperdiet tellus in fermentum. Proin posuere tincidunt gravida. Mauris dictum leo id ligula laoreet, sit amet rhoncus felis vestibulum.\",\"urls\":[],\"id\":18}",
+      "19": "{\"ItemCode\":\"qwwer\",\"price\":2000,\"floor\":\"Second Floor\",\"bedroom\":\"Two Bedroom\",\"function\":\"Personal\",\"area\":\"50\",\"location\":\"Gerji\",\"contact\":\"0901080709\",\"remarks\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut risus et purus auctor mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sit amet urna mollis, facilisis sapien a, molestie lacus. Cras at sapien interdum, malesuada massa ac, porta diam. Mauris eleifend congue ante, id varius felis ornare vitae. Vestibulum malesuada odio sed nulla venenatis scelerisque. Mauris vulputate laoreet interdum. Nam a interdum odio, non luctus ipsum. Phasellus congue neque sed sapien convallis dictum. Integer a massa diam. Mauris condimentum tellus et mi ultrices, et auctor quam elementum. Integer id eleifend urna. Mauris consectetur imperdiet tellus in fermentum. Proin posuere tincidunt gravida. Mauris dictum leo id ligula laoreet, sit amet rhoncus felis vestibulum.\",\"urls\":[],\"id\":19}"
+    }
+  }
+}
