@@ -28,8 +28,7 @@
     },
     "function": {
       "type": "string",
-      "required": true,
-      "default": "Personal"
+      "required": true
     },
     "area": {
       "type": "string",
@@ -46,10 +45,13 @@
     "remarks": {
       "type": "string"
     },
+    "isRented": {
+      "type": "boolean",
+      "required": true,
+      "default": false
+    },
     "urls": {
-      "type": [
-        "string"
-      ]
+      "type": ["string"]
     }
   },
   "validations": [],
